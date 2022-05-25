@@ -1,0 +1,126 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "DFW FM Stations": {
+            "bookmarks": {
+                "100.7": {
+                    "bandwidth": 150000.0,
+                    "frequency": 100700000.0,
+                    "mode": 1
+                },
+                "102.1": {
+                    "bandwidth": 150000.0,
+                    "frequency": 102100000.0,
+                    "mode": 1
+                },
+                "102.9": {
+                    "bandwidth": 150000.0,
+                    "frequency": 102900000.0,
+                    "mode": 1
+                },
+                "103.3": {
+                    "bandwidth": 150000.0,
+                    "frequency": 103300000.0,
+                    "mode": 1
+                },
+                "88.1": {
+                    "bandwidth": 150000.0,
+                    "frequency": 88100000.0,
+                    "mode": 1
+                },
+                "94.5": {
+                    "bandwidth": 150000.0,
+                    "frequency": 94500000.0,
+                    "mode": 1
+                },
+                "97.5": {
+                    "bandwidth": 150000.0,
+                    "frequency": 97500000.0,
+                    "mode": 1
+                },
+                "99.5": {
+                    "bandwidth": 150000.0,
+                    "frequency": 99500000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "Dallas Airband": {
+            "bookmarks": {
+                "KDFW Reg Dep (East)": {
+                    "bandwidth": 10000.0,
+                    "frequency": 118550000.0,
+                    "mode": 2
+                },
+                "KTKI Ground": {
+                    "bandwidth": 10000.0,
+                    "frequency": 121875000.0,
+                    "mode": 2
+                },
+                "KTKI Tower": {
+                    "bandwidth": 10000.0,
+                    "frequency": 118825000.0,
+                    "mode": 2
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "Dallas Ham UHF": {
+            "bookmarks": {
+                "NCTC Plano Rptr": {
+                    "bandwidth": 2800.0,
+                    "frequency": 444175000.0,
+                    "mode": 4
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "GMRS": {
+            "bookmarks": {
+                "GMRS (CH1)": {
+                    "bandwidth": 11000.0,
+                    "frequency": 462562500.0,
+                    "mode": 0
+                },
+                "GMRS (CH14)": {
+                    "bandwidth": 11000.0,
+                    "frequency": 467712500.0,
+                    "mode": 0
+                },
+                "GMRS (CH15)": {
+                    "bandwidth": 11000.0,
+                    "frequency": 462550000.0,
+                    "mode": 0
+                },
+                "GMRS (CH7)": {
+                    "bandwidth": 11000.0,
+                    "frequency": 462712500.0,
+                    "mode": 0
+                },
+                "GMRS (CH8)": {
+                    "bandwidth": 11000.0,
+                    "frequency": 467562500.0,
+                    "mode": 0
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "General": {
+            "bookmarks": {
+                "ADS-B": {
+                    "bandwidth": 11000.0,
+                    "frequency": 1090000000.0,
+                    "mode": 7
+                },
+                "WWVB (NIST Time)": {
+                    "bandwidth": 300.0,
+                    "frequency": 60000.0,
+                    "mode": 5
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "DFW FM Stations"
+}

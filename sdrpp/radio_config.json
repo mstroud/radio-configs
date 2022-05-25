@@ -1,0 +1,69 @@
+{
+    "Radio": {
+        "AM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 10000.0,
+            "deempMode": "None",
+            "noiseBlankerEnabled": false,
+            "snapInterval": 1000.0,
+            "squelchEnabled": true,
+            "squelchLevel": -31.395000457763672
+        },
+        "CW": {
+            "bandwidth": 500.0,
+            "snapInterval": 10.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "DSB": {
+            "bandwidth": 4600.0,
+            "snapInterval": 100.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "FM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 11000.0,
+            "deempMode": "None",
+            "fmifnrPreset": "Voice",
+            "noiseBlankerEnabled": false,
+            "snapInterval": 2500.0,
+            "squelchEnabled": true,
+            "squelchLevel": -30.232999801635742
+        },
+        "LSB": {
+            "bandwidth": 2800.0,
+            "snapInterval": 100.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "RAW": {
+            "FMIFNREnabled": false,
+            "bandwidth": 44100.0,
+            "noiseBlankerEnabled": false,
+            "snapInterval": 2500.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "USB": {
+            "FMIFNREnabled": false,
+            "bandwidth": 2800.0,
+            "deempMode": "None",
+            "noiseBlankerEnabled": false,
+            "snapInterval": 100.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "WFM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 150000.0,
+            "deempMode": "50us",
+            "noiseBlankerEnabled": false,
+            "snapInterval": 100000.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0,
+            "stereo": false
+        },
+        "selectedDemodId": 1
+    }
+}
